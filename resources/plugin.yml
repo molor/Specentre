@@ -1,0 +1,7 @@
+name: Specentre
+description: Fixes MC-148993.
+version: "1"
+api-version: 1.13
+author: molor (Zhenya Zima)
+main: molor.plugin.specentre.SpecentrePlugin
+depend: [ProtocolLib]
